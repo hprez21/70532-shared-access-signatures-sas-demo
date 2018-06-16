@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASDemo", "SASDemo\SASDemo.csproj", "{916FF969-54F3-455E-AA55-896B3E090C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{916FF969-54F3-455E-AA55-896B3E090C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916FF969-54F3-455E-AA55-896B3E090C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916FF969-54F3-455E-AA55-896B3E090C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916FF969-54F3-455E-AA55-896B3E090C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2E829E-80E0-48A3-B914-F30B7C9DEBDF}
+	EndGlobalSection
+EndGlobal
